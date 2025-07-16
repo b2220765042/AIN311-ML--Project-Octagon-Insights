@@ -4,7 +4,7 @@
 
 ## Project Description
 This project applies machine learning techniques to analyze and predict outcomes of MMA fights using historical fighter statistics and fight results. By preprocessing and exploring the data, training various classification algorithms, and evaluating model performance, the project provides insights into the factors influencing fight outcomes. Additionally, the project includes a prediction function to simulate hypothetical matchups, showcasing its practical application in sports analytics.
-YouTube:https://www.youtube.com/watch?v=6NuS92tVtZY
+YouTube: https://www.youtube.com/watch?v=6NuS92tVtZY
 ---
 
 ## Key Features
@@ -79,6 +79,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- **Name**: Kagan Canerik
-- **Email**: kagancanerik@gmail.com
-- **GitHub**: https://github.com/KaganCanerik
+- **Name**: Özgün Serergün Koca
+- **Email**: ozgunkoca@hacettepe.edu.tr
+- **GitHub**: https://github.com/b2220765042
